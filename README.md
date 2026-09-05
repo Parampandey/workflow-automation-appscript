@@ -40,3 +40,4 @@ A trigger-based workflow automation system built on Google Apps Script that send
 
 ## 📈 Impact
 Reduced manual administrative work by approximately 80% and improved data accuracy and reporting efficiency.
+
